@@ -1,0 +1,12 @@
+C:\C#\DDD1\DDD1.Infrastructure\bin\Debug\netstandard2.0\DDD1.Infrastructure.deps.json
+C:\C#\DDD1\DDD1.Infrastructure\bin\Debug\netstandard2.0\DDD1.Infrastructure.dll
+C:\C#\DDD1\DDD1.Infrastructure\bin\Debug\netstandard2.0\DDD1.Infrastructure.pdb
+C:\C#\DDD1\DDD1.Infrastructure\bin\Debug\netstandard2.0\DDD1.Domain.dll
+C:\C#\DDD1\DDD1.Infrastructure\bin\Debug\netstandard2.0\DDD1.Domain.pdb
+C:\C#\DDD1\DDD1.Infrastructure\obj\Debug\netstandard2.0\DDD1.Infrastructure.csprojAssemblyReference.cache
+C:\C#\DDD1\DDD1.Infrastructure\obj\Debug\netstandard2.0\DDD1.Infrastructure.AssemblyInfoInputs.cache
+C:\C#\DDD1\DDD1.Infrastructure\obj\Debug\netstandard2.0\DDD1.Infrastructure.AssemblyInfo.cs
+C:\C#\DDD1\DDD1.Infrastructure\obj\Debug\netstandard2.0\DDD1.Infrastructure.csproj.CoreCompileInputs.cache
+C:\C#\DDD1\DDD1.Infrastructure\obj\Debug\netstandard2.0\DDD1.Infrastructure.csproj.CopyComplete
+C:\C#\DDD1\DDD1.Infrastructure\obj\Debug\netstandard2.0\DDD1.Infrastructure.dll
+C:\C#\DDD1\DDD1.Infrastructure\obj\Debug\netstandard2.0\DDD1.Infrastructure.pdb

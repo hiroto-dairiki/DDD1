@@ -17,3 +17,7 @@ C:\C#\DDD1\DDD1.WinForm\bin\Debug\System.Data.SQLite.xml
 C:\C#\DDD1\DDD1.WinForm\obj\Debug\DDD1.WinForm.csproj.CopyComplete
 C:\C#\DDD1\DDD1.WinForm\obj\Debug\DDD1.WinForm.exe
 C:\C#\DDD1\DDD1.WinForm\obj\Debug\DDD1.WinForm.pdb
+C:\C#\DDD1\DDD1.WinForm\bin\Debug\DDD1.Domain.dll
+C:\C#\DDD1\DDD1.WinForm\bin\Debug\DDD1.Infrastructure.dll
+C:\C#\DDD1\DDD1.WinForm\bin\Debug\DDD1.Domain.pdb
+C:\C#\DDD1\DDD1.WinForm\bin\Debug\DDD1.Infrastructure.pdb

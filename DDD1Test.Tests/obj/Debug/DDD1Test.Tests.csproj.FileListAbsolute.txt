@@ -20,3 +20,7 @@ C:\C#\DDD1\DDD1Test.Tests\obj\Debug\DDD1Test.Tests.csproj.CoreCompileInputs.cach
 C:\C#\DDD1\DDD1Test.Tests\obj\Debug\DDD1Test.Tests.csproj.CopyComplete
 C:\C#\DDD1\DDD1Test.Tests\obj\Debug\DDD1Test.Tests.dll
 C:\C#\DDD1\DDD1Test.Tests\obj\Debug\DDD1Test.Tests.pdb
+C:\C#\DDD1\DDD1Test.Tests\bin\Debug\DDD1.Domain.dll
+C:\C#\DDD1\DDD1Test.Tests\bin\Debug\DDD1.Infrastructure.dll
+C:\C#\DDD1\DDD1Test.Tests\bin\Debug\DDD1.Domain.pdb
+C:\C#\DDD1\DDD1Test.Tests\bin\Debug\DDD1.Infrastructure.pdb

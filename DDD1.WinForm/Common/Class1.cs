@@ -10,7 +10,7 @@ namespace DDD1.WinForm.Common
     {
         public static int Add(int v1, int v2)
         {
-            return 0;
+            return v1 + v2;
         }
     }
 }
